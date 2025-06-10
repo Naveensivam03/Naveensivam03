@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey, I'm Naveensivam
 
-<!--
-**Naveensivam03/Naveensivam03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer and toolmaker, quietly focused on building useful things.  
+From custom Git packages to full eCommerce websites, I enjoy making ideas *real* with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Who I Am
+
+- ⚙️ I like working at the intersection of **problem-solving**, **clean code**, and **real-world practicality**.
+- 🔧 Recently built a **Python CLI package** for working with Git, and an end-to-end **eCommerce site** in JavaScript.
+- 🧪 I experiment fast, iterate quietly, and learn by doing.
+
+---
+
+### 🚀 Highlight Projects
+
+- 🔌 [`thallu`](#) – a custom Python package for enhanced Git workflows  
+- 🛒 [`ecom`](#) – a full-stack JavaScript eCommerce website (frontend + backend)  
+- 💡 [`leetcode150`](https://github.com/Naveensivam03/leetcode150) – Java solutions to 150 classic LeetCode problems  
+
+> *Links marked (#) are private for now – ask to see them if you're curious.*
+
+---
+
+### 🧰 Tech Stack
+
+```txt
+Languages   → Java, Python, JavaScript  
+Frontend    → HTML, CSS, JS (React basics in progress)  
+Backend     → Node.js, Express (learning), REST APIs  
+Tools       → Git, GitHub, VS Code, Postman  
+Practices   → Modular code, version control, problem-solving
