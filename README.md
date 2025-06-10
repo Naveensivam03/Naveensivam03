@@ -1,33 +1,24 @@
-# 👋 Hey, I'm Naveensivam
+<h1 align="center">Hi 👋, I'm naveensivam</h1>
+<h3 align="center">A developer who codes.</h3>
 
-I'm a full-stack developer and toolmaker, quietly focused on building useful things.  
-From custom Git packages to full eCommerce websites, I enjoy making ideas *real* with code.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveensivam03" alt="naveensivam03" /></a> </p>
 
----
+- 🔭 I’m currently working on **thallu**
 
-### 🧠 Who I Am
+- 🌱 I’m currently learning **docker , linux , finetuning , java**
 
-- ⚙️ I like working at the intersection of **problem-solving**, **clean code**, and **real-world practicality**.
-- 🔧 Recently built a **Python CLI package** for working with Git, and an end-to-end **eCommerce site** in JavaScript.
-- 🧪 I experiment fast, iterate quietly, and learn by doing.
+- 📫 How to reach me **naveensivam14@gmail.com**
 
----
+- ⚡ Fun fact **i code**
 
-### 🚀 Highlight Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 🔌 [`thallu`](#) – a custom Python package for enhanced Git workflows  
-- 🛒 [`ecom`](#) – a full-stack JavaScript eCommerce website (frontend + backend)  
-- 💡 [`leetcode150`](https://github.com/Naveensivam03/leetcode150) – Java solutions to 150 classic LeetCode problems  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-> *Links marked (#) are private for now – ask to see them if you're curious.*
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveensivam03&show_icons=true&locale=en&layout=compact" alt="naveensivam03" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveensivam03&" alt="naveensivam03" /></p>
 
-### 🧰 Tech Stack
-
-```txt
-Languages   → Java, Python, JavaScript  
-Frontend    → HTML, CSS, JS (React basics in progress)  
-Backend     → Node.js, Express (learning), REST APIs  
-Tools       → Git, GitHub, VS Code, Postman  
-Practices   → Modular code, version control, problem-solving
