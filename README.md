@@ -7,7 +7,7 @@ Currently building a custom Git CLI tool (`thallu`) in Python and a full-stack e
 
 ## 🛠 Tech Stack  
 **Languages:** Python, Java, JavaScript  
-**Backend:** Node.js, Express.js  
+**Backend:** Node.js, Express.js  , spring boot
 **Frontend:** HTML, CSS, React, Vite  
 **Databases:** MongoDB, PostgreSQL, Supabase  
 **Tools:** Git, Bash, Postman, Figma, Render, Vercel  
