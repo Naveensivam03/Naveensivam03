@@ -1,32 +1,30 @@
-# 👋 Hi, I'm Naveen Sivam
+# Hi, I'm Naveensivam
 
-I'm a developer focused on building clean, efficient tools and full-stack applications.  
-Currently building a custom Git CLI tool (`thallu`) in Python and a full-stack eCommerce app.
-
----
-
-## 🛠 Tech Stack  
-**Languages:** Python, Java, JavaScript  
-**Backend:** Node.js, Express.js  , spring boot
-**Frontend:** HTML, CSS, React, Vite  
-**Databases:** MongoDB, PostgreSQL, Supabase  
-**Tools:** Git, Bash, Postman, Figma, Render, Vercel  
+I'm a developer focused on building clean, efficient tools and full-stack applications.
+I'm open to work and experience a lot .
 
 ---
 
-## 📌 Projects  
-- **thallu** – Python CLI tool for custom Git workflows *(private)*  
-- **ecom** – Full-stack eCommerce app with JavaScript, Node, and MongoDB *(private)*  
+## 🛠 Tech Stack
+**Languages:** Python, Java, JavaScript, Typescript
+**Backend:** Node.js, Express.js  , spring boot , GraphQl
+**Frontend:** HTML, CSS, React, Vite , Nextjs
+**Databases:** PostgreSQL, Supabase
+**Tools:** Git, Bash, Postman, Render, Vercel  , Neovim
+
+---
+
+##  Projects
+- **thallu** – Python CLI tool for custom Git workflows *(private)*
+- **ecom** – Full-stack eCommerce app with JavaScript, Node, and MongoDB *(private)*
 - **leetcode150** – Java-based solutions to core LeetCode problems [→ View Repo](https://github.com/Naveensivam03/leetcode150)
 
 ---
 
-## 🧠 Learning Focus  
-Java · AI fine-tuning · Developer productivity tooling
+##  Learning Focus
+Java · AI fine-tuning · Developer productivity tooling , Graphql and nextjs
 
 ---
 
-## 📬 Reach Me  
+## 📬 Reach Me
 [Email](mailto:naveensivam14@gmail.com)
-
-
