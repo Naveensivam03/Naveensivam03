@@ -5,11 +5,6 @@ I'm open to work and experience a lot .
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** Python, Java, JavaScript, Typescript
-**Backend:** Node.js, Express.js  , spring boot , GraphQl
-**Frontend:** HTML, CSS, React, Vite , Nextjs
-**Databases:** PostgreSQL, Supabase
 **Tools:** Git, Bash, Postman, Render, Vercel  , Neovim
 
 # 💻 Tech Stack:
