@@ -1,25 +1,183 @@
-# Hi, I'm Naveensivam
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0533,100:2d0a5e&height=200&section=header&text=naveensivam&fontColor=c77dff&fontSize=52&fontAlignY=55&animation=fadeIn&desc=backend%20engineer%20%C2%B7%20ssn%20%2727%20%C2%B7%20chennai&descAlignY=75&descSize=15&descColor=9d7fbf" width="100%"/>
 
-I'm a developer focused on building clean, efficient tools and full-stack applications.
-I'm open to work and experience a lot .
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=C77DFF&center=true&vCenter=true&width=560&lines=Spring+Boot+%2B+GraphQL+%2B+Gemini+API;shipped+a+PyPI+package+%40+20;building+things+that+actually+work.;open+to+internships+%26+collabs.)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```
+╭─ whoami ──────────────────────╮
+│                               │
+│  naveensivam s                │
+│  b.tech IT · ssn engineering  │
+│  chennai, india               │
+│                               │
+│  cgpa  ████████░░  8.08/10    │
+│  year  ██░░░░░░░░  pre-final  │
+│                               │
+│  status: open to work  ●      │
+╰───────────────────────────────╯
+```
+
+</td>
+<td width="50%" valign="top">
+
+```
+╭─ on my desk ──────────────────╮
+│                               │
+│  ▶ taskin                     │
+│    ai scheduler →             │
+│    spring boot + gemini api   │
+│                               │
+│  ✦ thallu  [live on pypi]     │
+│    git workflow, one command  │
+│    pip install thallu         │
+│                               │
+╰───────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-**Tools:** Git, Bash, Postman, Render, Vercel  , Neovim
+## ◈ projects
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Naveensivam03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Naveensivam03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveensivam03&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+**[Taskin](https://github.com/Naveensivam03/Taskin)** — AI Task Scheduler &nbsp;&nbsp;`active`
+
+> You tell it what needs doing. It reads your Google Calendar, asks Gemini to think through priorities and gaps, then slots everything in automatically. No drag-and-drop. You just show up.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a0533?style=flat-square&logo=springboot&logoColor=c77dff)
+![GraphQL](https://img.shields.io/badge/GraphQL-1a0533?style=flat-square&logo=graphql&logoColor=c77dff)
+![Next.js](https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=next.js&logoColor=c77dff)
+![Gemini API](https://img.shields.io/badge/Gemini_API-1a0533?style=flat-square&logo=google&logoColor=c77dff)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-1a0533?style=flat-square&logo=googlecalendar&logoColor=c77dff)
+![OAuth2](https://img.shields.io/badge/OAuth2-1a0533?style=flat-square&logo=auth0&logoColor=c77dff)
+&nbsp; [[backend]](https://github.com/Naveensivam03/Taskin) · [[frontend]](https://github.com/Naveensivam03/TaskinFrontend)
+
+<br/>
+
+**[Soul](https://github.com/Naveensivam03/Soul)** — AI Memory Companion &nbsp;&nbsp;`shipped`
+
+> Most AI assistants forget you the second you close the terminal. Soul doesn't. RAG pipeline with ChromaDB for semantic recall. Valkey handles the cache so it stays fast.
+
+![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=c77dff)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a0533?style=flat-square&logo=databricks&logoColor=c77dff)
+![Valkey](https://img.shields.io/badge/Valkey-1a0533?style=flat-square&logo=redis&logoColor=c77dff)
+![Gemini API](https://img.shields.io/badge/Gemini_API-1a0533?style=flat-square&logo=google&logoColor=c77dff)
+![RAG](https://img.shields.io/badge/RAG-1a0533?style=flat-square&logo=openai&logoColor=c77dff)
+&nbsp; [[source]](https://github.com/Naveensivam03/Soul)
+
+<br/>
+
+**[thallu](https://pypi.org/project/thallu/)** — Git Workflow CLI &nbsp;&nbsp;`📦 live on pypi`
+
+> I kept typing the same four git commands every push. So I built one that does all of them. Published to PyPI. People use it.
+
+![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=c77dff)
+![PyPI](https://img.shields.io/badge/PyPI-1a0533?style=flat-square&logo=pypi&logoColor=c77dff)
+&nbsp; `pip install thallu`
+
+<br/>
+
+**[OD Processing System](https://github.com/Naveensivam03/od-final-)** — Teacher Module &nbsp;&nbsp;`shipped`
+
+> Role-based approval flow for college. Owned the teacher module end-to-end — JWT auth, protected routes, real-time status tracking, automated emails via Nodemailer. 4-person team, shipped on time.
+
+![React](https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=c77dff)
+![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=flat-square&logo=node.js&logoColor=c77dff)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a0533?style=flat-square&logo=mongodb&logoColor=c77dff)
+![JWT](https://img.shields.io/badge/JWT-1a0533?style=flat-square&logo=jsonwebtokens&logoColor=c77dff)
+&nbsp; [[source]](https://github.com/Naveensivam03/od-final-)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Naveensivam03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📬 Reach Me
-[Email](mailto:naveensivam14@gmail.com)
+## ◈ stack
+
+<br/>
+
+**backend** &nbsp;·&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a0533?style=flat-square&logo=springboot&logoColor=c77dff)
+![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=flat-square&logo=node.js&logoColor=c77dff)
+![GraphQL](https://img.shields.io/badge/GraphQL-1a0533?style=flat-square&logo=graphql&logoColor=c77dff)
+![REST](https://img.shields.io/badge/REST-1a0533?style=flat-square&logo=fastapi&logoColor=c77dff)
+![JWT](https://img.shields.io/badge/JWT-1a0533?style=flat-square&logo=jsonwebtokens&logoColor=c77dff)
+
+**frontend** &nbsp;·&nbsp;
+![React](https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=c77dff)
+![Next.js](https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=next.js&logoColor=c77dff)
+
+**languages** &nbsp;·&nbsp;
+![Java](https://img.shields.io/badge/Java-1a0533?style=flat-square&logo=openjdk&logoColor=c77dff)
+![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=c77dff)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=c77dff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=flat-square&logo=javascript&logoColor=c77dff)
+![SQL](https://img.shields.io/badge/SQL-1a0533?style=flat-square&logo=postgresql&logoColor=c77dff)
+
+**data** &nbsp;·&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=c77dff)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a0533?style=flat-square&logo=mongodb&logoColor=c77dff)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a0533?style=flat-square&logo=databricks&logoColor=c77dff)
+![Valkey](https://img.shields.io/badge/Valkey-1a0533?style=flat-square&logo=redis&logoColor=c77dff)
+
+**tools** &nbsp;·&nbsp;
+![Git](https://img.shields.io/badge/Git-1a0533?style=flat-square&logo=git&logoColor=c77dff)
+![Postman](https://img.shields.io/badge/Postman-1a0533?style=flat-square&logo=postman&logoColor=c77dff)
+![Vercel](https://img.shields.io/badge/Vercel-1a0533?style=flat-square&logo=vercel&logoColor=c77dff)
+![Render](https://img.shields.io/badge/Render-1a0533?style=flat-square&logo=render&logoColor=c77dff)
+![Neovim](https://img.shields.io/badge/Neovim-1a0533?style=flat-square&logo=neovim&logoColor=c77dff)
+
+---
+
+## ◈ stats
+
+<div align="center">
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveensivam03&theme=dracula" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naveensivam03&theme=dracula" height="150"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naveensivam03&theme=dracula" height="150"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naveensivam03&theme=dracula" height="150"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Naveensivam03&hide_border=true&background=0d001a&ring=c77dff&fire=9d4edd&currStreakLabel=c77dff&sideLabels=9d7fbf&dates=554477&stroke=2d0a5e&currStreakNum=ffffff&sideNums=ddbbff" height="145"/>
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+[![mail](https://img.shields.io/badge/mail-1a0533?style=for-the-badge&logo=gmail&logoColor=c77dff)](mailto:naveensivam14@gmail.com)
+&nbsp;
+[![linkedin](https://img.shields.io/badge/linkedin-1a0533?style=for-the-badge&logo=linkedin&logoColor=c77dff)](https://linkedin.com/in/naveensivam-s13)
+&nbsp;
+[![portfolio](https://img.shields.io/badge/portfolio-1a0533?style=for-the-badge&logo=vercel&logoColor=c77dff)](https://portfolio-cyan-xi-90.vercel.app/)
+
+<br/><br/>
+
+<sub>not everything i start ships — but the things i'm proud of do.<br/>pre-final year · cgpa 8.03 · building in public at <b>@Naveensivam03</b></sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a5e,60:1a0533,100:000000&height=100&section=footer" width="100%"/>
