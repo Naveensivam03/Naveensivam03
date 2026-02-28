@@ -174,7 +174,7 @@
 
 <br/><br/>
 
-<sub>not everything i start ships — but the things i'm proud of do.<br/>pre-final year · cgpa 8.03 · building in public at <b>@Naveensivam03</b></sub>
+<sub>not everything i start ships — but the things i'm proud of do.<br/>pre-final year · cgpa 8.08 · building in public at <b>@Naveensivam03</b></sub>
 
 </div>
 
