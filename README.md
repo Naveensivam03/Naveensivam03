@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:3b4a5a,100:4c566a&height=200&section=header&text=naveensivam&fontColor=88c0d0&fontSize=52&fontAlignY=55&animation=fadeIn&d[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:3b4a5a,100:4c566a&height=200&section=header&text=naveensivam&fontColor=88c0d0&fontSize=52&fontAlignY=55&animation=fadeIn&desc=event-driven%20systems%20%7C%20spring%20boot%20%7C%20typescript&descAlignY=68&descAlign=50" width="100%">
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=88c0d0&center=true&vCenter=true&width=700&lines=event-driven+systems+%C2%B7+spring+boot+[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=88c0d0&center=true&vCenter=true&width=700&lines=event-driven+systems+%C2%B7+spring+boot+%C2%B7+postgresql+%C2%B7+typescript;built+4+shipping+engines+%C2%B7+scaled+for+precision;RAG+systems+%7C+ai+memory+%7C+automations)](https://github.com/Naveensivam03)
 
 </div>
 
@@ -55,7 +55,7 @@
 
 **[PRFlow](https://github.com/Naveensivam03/PRFlow)** — Event-Driven Pull Request Orchestration &nbsp;&nbsp;`active`
 
-> Software teams waste hours on reviewer chaos — wrong people assigned, reviews going stale, no escalation when deadlines slip. PRFlow fixes this with 4 event-driven workflow engines: Complexity sco[...]
+> Software teams waste hours on reviewer chaos — wrong people assigned, reviews going stale, no escalation when deadlines slip. PRFlow fixes this with 4 event-driven workflow engines: Complexity scoring, expertise routing, SLA escalation, and intelligent reassignment.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2c3e50?style=flat-square&logo=springboot&logoColor=88c0d0)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2c3e50?style=flat-square&logo=typescript&logoColor=88c0d0)
@@ -121,7 +121,7 @@ persistence                   →  8+ relational entities · spring boot · post
 
 **[Zovlyn](https://zvolyn.vercel.app)** — Full-Stack Boilerplate Generator &nbsp;&nbsp;`live`
 
-> Starting a new full-stack project shouldn't take half a day. Zovlyn generates a production-ready Next.js + Spring Boot ZIP in one click — CORS pre-wired, Docker Compose included, AGENTS.md at ever[...]
+> Starting a new full-stack project shouldn't take half a day. Zovlyn generates a production-ready Next.js + Spring Boot ZIP in one click — CORS pre-wired, Docker Compose included, AGENTS.md at every step.
 
 ![Next.js](https://img.shields.io/badge/Next.js-2c3e50?style=flat-square&logo=next.js&logoColor=88c0d0)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-2c3e50?style=flat-square&logo=springboot&logoColor=88c0d0)
@@ -201,7 +201,7 @@ persistence                   →  8+ relational entities · spring boot · post
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Naveensivam03&hide_border=true&background=2c3e50&ring=88c0d0&fire=81a1c1&currStreakLabel=88c0d0&sideLabels=5e81ac&dates=434c5e&stroke=3b4a5a&currSt[...]
+<img src="https://streak-stats.demolab.com?user=Naveensivam03&hide_border=true&background=2c3e50&ring=88c0d0&fire=81a1c1&currStreakLabel=88c0d0&sideLabels=5e81ac&dates=434c5e&stroke=3b4a5a&currStreakNum=88c0d0" width="100%">
 
 </div>
 
