@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0533,100:2d0a5e&height=200&section=header&text=naveensivam&fontColor=c77dff&fontSize=52&fontAlignY=55&animation=fadeIn&desc=backend%20engineer%20%C2%B7%20ssn%20%2727%20%C2%B7%20chennai&descAlignY=75&descSize=15&descColor=9d7fbf" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:3b4a5a,100:4c566a&height=200&section=header&text=naveensivam&fontColor=88c0d0&fontSize=52&fontAlignY=55&animation=fadeIn&d[...]
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=C77DFF&center=true&vCenter=true&width=700&lines=event-driven+systems+%C2%B7+spring+boot+%C2%B7+postgresql;4+workflow+engines.+3-stage+SLA.+HMAC+security.;shipped+a+PyPI+package+%40+20.;building+things+that+actually+work.;open+to+SWE+internships+%26+collabs.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=88c0d0&center=true&vCenter=true&width=700&lines=event-driven+systems+%C2%B7+spring+boot+[...]
 
 </div>
 
@@ -55,15 +55,15 @@
 
 **[PRFlow](https://github.com/Naveensivam03/PRFlow)** — Event-Driven Pull Request Orchestration &nbsp;&nbsp;`active`
 
-> Software teams waste hours on reviewer chaos — wrong people assigned, reviews going stale, no escalation when deadlines slip. PRFlow fixes this with 4 event-driven workflow engines: Complexity scoring, Expertise routing, Assignment balancing, and SLA Escalation. You push code. PRFlow handles the rest.
+> Software teams waste hours on reviewer chaos — wrong people assigned, reviews going stale, no escalation when deadlines slip. PRFlow fixes this with 4 event-driven workflow engines: Complexity sco[...]
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a0533?style=flat-square&logo=springboot&logoColor=c77dff)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=c77dff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=c77dff)
-![Flyway](https://img.shields.io/badge/Flyway-1a0533?style=flat-square&logo=flyway&logoColor=c77dff)
-![Valkey](https://img.shields.io/badge/Valkey-1a0533?style=flat-square&logo=redis&logoColor=c77dff)
-![GitHub Apps](https://img.shields.io/badge/GitHub_Apps-1a0533?style=flat-square&logo=github&logoColor=c77dff)
-![Bun](https://img.shields.io/badge/Bun-1a0533?style=flat-square&logo=bun&logoColor=c77dff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2c3e50?style=flat-square&logo=springboot&logoColor=88c0d0)
+![TypeScript](https://img.shields.io/badge/TypeScript-2c3e50?style=flat-square&logo=typescript&logoColor=88c0d0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2c3e50?style=flat-square&logo=postgresql&logoColor=88c0d0)
+![Flyway](https://img.shields.io/badge/Flyway-2c3e50?style=flat-square&logo=flyway&logoColor=88c0d0)
+![Valkey](https://img.shields.io/badge/Valkey-2c3e50?style=flat-square&logo=redis&logoColor=88c0d0)
+![GitHub Apps](https://img.shields.io/badge/GitHub_Apps-2c3e50?style=flat-square&logo=github&logoColor=88c0d0)
+![Bun](https://img.shields.io/badge/Bun-2c3e50?style=flat-square&logo=bun&logoColor=88c0d0)
 &nbsp; [[source]](https://github.com/Naveensivam03/PRFlow)
 
 <details>
@@ -86,12 +86,12 @@ persistence                   →  8+ relational entities · spring boot · post
 
 > You tell it what needs doing. It reads your Google Calendar, asks Gemini to think through priorities and gaps, then slots everything in automatically. No drag-and-drop. You just show up.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a0533?style=flat-square&logo=springboot&logoColor=c77dff)
-![GraphQL](https://img.shields.io/badge/GraphQL-1a0533?style=flat-square&logo=graphql&logoColor=c77dff)
-![Next.js](https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=next.js&logoColor=c77dff)
-![Gemini API](https://img.shields.io/badge/Gemini_API-1a0533?style=flat-square&logo=google&logoColor=c77dff)
-![Google Calendar](https://img.shields.io/badge/Google_Calendar-1a0533?style=flat-square&logo=googlecalendar&logoColor=c77dff)
-![OAuth2](https://img.shields.io/badge/OAuth2-1a0533?style=flat-square&logo=auth0&logoColor=c77dff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2c3e50?style=flat-square&logo=springboot&logoColor=88c0d0)
+![GraphQL](https://img.shields.io/badge/GraphQL-2c3e50?style=flat-square&logo=graphql&logoColor=88c0d0)
+![Next.js](https://img.shields.io/badge/Next.js-2c3e50?style=flat-square&logo=next.js&logoColor=88c0d0)
+![Gemini API](https://img.shields.io/badge/Gemini_API-2c3e50?style=flat-square&logo=google&logoColor=88c0d0)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-2c3e50?style=flat-square&logo=googlecalendar&logoColor=88c0d0)
+![OAuth2](https://img.shields.io/badge/OAuth2-2c3e50?style=flat-square&logo=auth0&logoColor=88c0d0)
 &nbsp; [[backend]](https://github.com/Naveensivam03/Taskin) · [[frontend]](https://github.com/Naveensivam03/TaskinFrontend)
 
 <br/>
@@ -100,11 +100,11 @@ persistence                   →  8+ relational entities · spring boot · post
 
 > Most AI assistants forget you the second you close the terminal. Soul doesn't. RAG pipeline with ChromaDB for semantic recall. Valkey handles the cache so it stays fast.
 
-![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=c77dff)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1a0533?style=flat-square&logo=databricks&logoColor=c77dff)
-![Valkey](https://img.shields.io/badge/Valkey-1a0533?style=flat-square&logo=redis&logoColor=c77dff)
-![Gemini API](https://img.shields.io/badge/Gemini_API-1a0533?style=flat-square&logo=google&logoColor=c77dff)
-![RAG](https://img.shields.io/badge/RAG-1a0533?style=flat-square&logo=openai&logoColor=c77dff)
+![Python](https://img.shields.io/badge/Python-2c3e50?style=flat-square&logo=python&logoColor=88c0d0)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-2c3e50?style=flat-square&logo=databricks&logoColor=88c0d0)
+![Valkey](https://img.shields.io/badge/Valkey-2c3e50?style=flat-square&logo=redis&logoColor=88c0d0)
+![Gemini API](https://img.shields.io/badge/Gemini_API-2c3e50?style=flat-square&logo=google&logoColor=88c0d0)
+![RAG](https://img.shields.io/badge/RAG-2c3e50?style=flat-square&logo=openai&logoColor=88c0d0)
 &nbsp; [[source]](https://github.com/Naveensivam03/Soul)
 
 <br/>
@@ -113,20 +113,20 @@ persistence                   →  8+ relational entities · spring boot · post
 
 > I kept typing the same four git commands every push. So I built one that does all of them. Published to PyPI. People use it.
 
-![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=c77dff)
-![PyPI](https://img.shields.io/badge/PyPI-1a0533?style=flat-square&logo=pypi&logoColor=c77dff)
+![Python](https://img.shields.io/badge/Python-2c3e50?style=flat-square&logo=python&logoColor=88c0d0)
+![PyPI](https://img.shields.io/badge/PyPI-2c3e50?style=flat-square&logo=pypi&logoColor=88c0d0)
 &nbsp; `pip install thallu`
 
 <br/>
 
 **[Zovlyn](https://zvolyn.vercel.app)** — Full-Stack Boilerplate Generator &nbsp;&nbsp;`live`
 
-> Starting a new full-stack project shouldn't take half a day. Zovlyn generates a production-ready Next.js + Spring Boot ZIP in one click — CORS pre-wired, Docker Compose included, AGENTS.md at every level so AI coding agents understand your project immediately.
+> Starting a new full-stack project shouldn't take half a day. Zovlyn generates a production-ready Next.js + Spring Boot ZIP in one click — CORS pre-wired, Docker Compose included, AGENTS.md at ever[...]
 
-![Next.js](https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=next.js&logoColor=c77dff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a0533?style=flat-square&logo=springboot&logoColor=c77dff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=c77dff)
-![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=c77dff)
+![Next.js](https://img.shields.io/badge/Next.js-2c3e50?style=flat-square&logo=next.js&logoColor=88c0d0)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2c3e50?style=flat-square&logo=springboot&logoColor=88c0d0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2c3e50?style=flat-square&logo=postgresql&logoColor=88c0d0)
+![Docker](https://img.shields.io/badge/Docker-2c3e50?style=flat-square&logo=docker&logoColor=88c0d0)
 &nbsp; [[live]](https://zvolyn.vercel.app)
 
 <br/>
@@ -135,10 +135,10 @@ persistence                   →  8+ relational entities · spring boot · post
 
 > Role-based approval flow for college. Owned the teacher module end-to-end — JWT auth, protected routes, real-time status tracking, automated emails via Nodemailer. 4-person team, shipped on time.
 
-![React](https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=c77dff)
-![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=flat-square&logo=node.js&logoColor=c77dff)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a0533?style=flat-square&logo=mongodb&logoColor=c77dff)
-![JWT](https://img.shields.io/badge/JWT-1a0533?style=flat-square&logo=jsonwebtokens&logoColor=c77dff)
+![React](https://img.shields.io/badge/React-2c3e50?style=flat-square&logo=react&logoColor=88c0d0)
+![Node.js](https://img.shields.io/badge/Node.js-2c3e50?style=flat-square&logo=node.js&logoColor=88c0d0)
+![MongoDB](https://img.shields.io/badge/MongoDB-2c3e50?style=flat-square&logo=mongodb&logoColor=88c0d0)
+![JWT](https://img.shields.io/badge/JWT-2c3e50?style=flat-square&logo=jsonwebtokens&logoColor=88c0d0)
 &nbsp; [[source]](https://github.com/Naveensivam03/od-final-)
 
 ---
@@ -148,39 +148,39 @@ persistence                   →  8+ relational entities · spring boot · post
 <br/>
 
 **backend** &nbsp;·&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a0533?style=flat-square&logo=springboot&logoColor=c77dff)
-![Node.js](https://img.shields.io/badge/Node.js-1a0533?style=flat-square&logo=node.js&logoColor=c77dff)
-![GraphQL](https://img.shields.io/badge/GraphQL-1a0533?style=flat-square&logo=graphql&logoColor=c77dff)
-![REST](https://img.shields.io/badge/REST-1a0533?style=flat-square&logo=fastapi&logoColor=c77dff)
-![JWT](https://img.shields.io/badge/JWT-1a0533?style=flat-square&logo=jsonwebtokens&logoColor=c77dff)
-![Event-Driven](https://img.shields.io/badge/Event--Driven-1a0533?style=flat-square&logo=apachekafka&logoColor=c77dff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2c3e50?style=flat-square&logo=springboot&logoColor=88c0d0)
+![Node.js](https://img.shields.io/badge/Node.js-2c3e50?style=flat-square&logo=node.js&logoColor=88c0d0)
+![GraphQL](https://img.shields.io/badge/GraphQL-2c3e50?style=flat-square&logo=graphql&logoColor=88c0d0)
+![REST](https://img.shields.io/badge/REST-2c3e50?style=flat-square&logo=fastapi&logoColor=88c0d0)
+![JWT](https://img.shields.io/badge/JWT-2c3e50?style=flat-square&logo=jsonwebtokens&logoColor=88c0d0)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-2c3e50?style=flat-square&logo=apachekafka&logoColor=88c0d0)
 
 **frontend** &nbsp;·&nbsp;
-![React](https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=c77dff)
-![Next.js](https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=next.js&logoColor=c77dff)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a0533?style=flat-square&logo=tailwindcss&logoColor=c77dff)
+![React](https://img.shields.io/badge/React-2c3e50?style=flat-square&logo=react&logoColor=88c0d0)
+![Next.js](https://img.shields.io/badge/Next.js-2c3e50?style=flat-square&logo=next.js&logoColor=88c0d0)
+![Tailwind](https://img.shields.io/badge/Tailwind-2c3e50?style=flat-square&logo=tailwindcss&logoColor=88c0d0)
 
 **languages** &nbsp;·&nbsp;
-![Java](https://img.shields.io/badge/Java-1a0533?style=flat-square&logo=openjdk&logoColor=c77dff)
-![Python](https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=c77dff)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=c77dff)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a0533?style=flat-square&logo=javascript&logoColor=c77dff)
-![SQL](https://img.shields.io/badge/SQL-1a0533?style=flat-square&logo=postgresql&logoColor=c77dff)
+![Java](https://img.shields.io/badge/Java-2c3e50?style=flat-square&logo=openjdk&logoColor=88c0d0)
+![Python](https://img.shields.io/badge/Python-2c3e50?style=flat-square&logo=python&logoColor=88c0d0)
+![TypeScript](https://img.shields.io/badge/TypeScript-2c3e50?style=flat-square&logo=typescript&logoColor=88c0d0)
+![JavaScript](https://img.shields.io/badge/JavaScript-2c3e50?style=flat-square&logo=javascript&logoColor=88c0d0)
+![SQL](https://img.shields.io/badge/SQL-2c3e50?style=flat-square&logo=postgresql&logoColor=88c0d0)
 
 **data** &nbsp;·&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=c77dff)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a0533?style=flat-square&logo=mongodb&logoColor=c77dff)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-1a0533?style=flat-square&logo=databricks&logoColor=c77dff)
-![Valkey](https://img.shields.io/badge/Valkey-1a0533?style=flat-square&logo=redis&logoColor=c77dff)
-![Flyway](https://img.shields.io/badge/Flyway-1a0533?style=flat-square&logo=flyway&logoColor=c77dff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2c3e50?style=flat-square&logo=postgresql&logoColor=88c0d0)
+![MongoDB](https://img.shields.io/badge/MongoDB-2c3e50?style=flat-square&logo=mongodb&logoColor=88c0d0)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-2c3e50?style=flat-square&logo=databricks&logoColor=88c0d0)
+![Valkey](https://img.shields.io/badge/Valkey-2c3e50?style=flat-square&logo=redis&logoColor=88c0d0)
+![Flyway](https://img.shields.io/badge/Flyway-2c3e50?style=flat-square&logo=flyway&logoColor=88c0d0)
 
 **tools** &nbsp;·&nbsp;
-![Git](https://img.shields.io/badge/Git-1a0533?style=flat-square&logo=git&logoColor=c77dff)
-![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=c77dff)
-![Postman](https://img.shields.io/badge/Postman-1a0533?style=flat-square&logo=postman&logoColor=c77dff)
-![Vercel](https://img.shields.io/badge/Vercel-1a0533?style=flat-square&logo=vercel&logoColor=c77dff)
-![Render](https://img.shields.io/badge/Render-1a0533?style=flat-square&logo=render&logoColor=c77dff)
-![Neovim](https://img.shields.io/badge/Neovim-1a0533?style=flat-square&logo=neovim&logoColor=c77dff)
+![Git](https://img.shields.io/badge/Git-2c3e50?style=flat-square&logo=git&logoColor=88c0d0)
+![Docker](https://img.shields.io/badge/Docker-2c3e50?style=flat-square&logo=docker&logoColor=88c0d0)
+![Postman](https://img.shields.io/badge/Postman-2c3e50?style=flat-square&logo=postman&logoColor=88c0d0)
+![Vercel](https://img.shields.io/badge/Vercel-2c3e50?style=flat-square&logo=vercel&logoColor=88c0d0)
+![Render](https://img.shields.io/badge/Render-2c3e50?style=flat-square&logo=render&logoColor=88c0d0)
+![Neovim](https://img.shields.io/badge/Neovim-2c3e50?style=flat-square&logo=neovim&logoColor=88c0d0)
 
 ---
 
@@ -189,19 +189,19 @@ persistence                   →  8+ relational entities · spring boot · post
 <div align="center">
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveensivam03&theme=dracula" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveensivam03&theme=nord_dark" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naveensivam03&theme=dracula" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naveensivam03&theme=nord_dark" height="150"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naveensivam03&theme=dracula" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naveensivam03&theme=nord_dark" height="150"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naveensivam03&theme=dracula" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naveensivam03&theme=nord_dark" height="150"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Naveensivam03&hide_border=true&background=0d001a&ring=c77dff&fire=9d4edd&currStreakLabel=c77dff&sideLabels=9d7fbf&dates=554477&stroke=2d0a5e&currStreakNum=ffffff&sideNums=ddbbff" height="145"/>
+<img src="https://streak-stats.demolab.com?user=Naveensivam03&hide_border=true&background=2c3e50&ring=88c0d0&fire=81a1c1&currStreakLabel=88c0d0&sideLabels=5e81ac&dates=434c5e&stroke=3b4a5a&currSt[...]
 
 </div>
 
@@ -211,11 +211,11 @@ persistence                   →  8+ relational entities · spring boot · post
 
 <div align="center">
 
-[![mail](https://img.shields.io/badge/mail-1a0533?style=for-the-badge&logo=gmail&logoColor=c77dff)](mailto:naveensivam14@gmail.com)
+[![mail](https://img.shields.io/badge/mail-2c3e50?style=for-the-badge&logo=gmail&logoColor=88c0d0)](mailto:naveensivam14@gmail.com)
 &nbsp;
-[![linkedin](https://img.shields.io/badge/linkedin-1a0533?style=for-the-badge&logo=linkedin&logoColor=c77dff)](https://linkedin.com/in/naveensivam-s13)
+[![linkedin](https://img.shields.io/badge/linkedin-2c3e50?style=for-the-badge&logo=linkedin&logoColor=88c0d0)](https://linkedin.com/in/naveensivam-s13)
 &nbsp;
-[![portfolio](https://img.shields.io/badge/portfolio-1a0533?style=for-the-badge&logo=vercel&logoColor=c77dff)](https://devport-sand.vercel.app/)
+[![portfolio](https://img.shields.io/badge/portfolio-2c3e50?style=for-the-badge&logo=vercel&logoColor=88c0d0)](https://devport-sand.vercel.app/)
 
 <br/><br/>
 
@@ -225,4 +225,4 @@ persistence                   →  8+ relational entities · spring boot · post
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a5e,60:1a0533,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b4a5a,60:2c3e50,100:1f2937&height=100&section=footer" width="100%"/>
