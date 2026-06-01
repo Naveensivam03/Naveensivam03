@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=C77DFF&center=true&vCenter=true&width=560&lines=Spring+Boot+%2B+GraphQL+%2B+Gemini+API;shipped+a+PyPI+package+%40+20;building+things+that+actually+work.;open+to+internships+%26+collabs.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=C77DFF&center=true&vCenter=true&width=700&lines=event-driven+systems+%C2%B7+spring+boot+%C2%B7+postgresql;4+workflow+engines.+3-stage+SLA.+HMAC+security.;shipped+a+PyPI+package+%40+20.;building+things+that+actually+work.;open+to+SWE+internships+%26+collabs.)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,13 +32,13 @@
 ```
 ╭─ on my desk ──────────────────╮
 │                               │
-│  ▶ taskin                     │
-│    ai scheduler →             │
-│    spring boot + gemini api   │
+│  ▶ prflow          [active]   │
+│    event-driven PR platform   │
+│    spring boot · postgresql   │
+│    4 engines · sla escalation │
 │                               │
 │  ✦ thallu  [live on pypi]     │
 │    git workflow, one command  │
-│    pip install thallu         │
 │                               │
 ╰───────────────────────────────╯
 ```
@@ -53,7 +53,36 @@
 
 <br/>
 
-**[Taskin](https://github.com/Naveensivam03/Taskin)** — AI Task Scheduler &nbsp;&nbsp;`active`
+**[PRFlow](https://github.com/Naveensivam03/PRFlow)** — Event-Driven Pull Request Orchestration &nbsp;&nbsp;`active`
+
+> Software teams waste hours on reviewer chaos — wrong people assigned, reviews going stale, no escalation when deadlines slip. PRFlow fixes this with 4 event-driven workflow engines: Complexity scoring, Expertise routing, Assignment balancing, and SLA Escalation. You push code. PRFlow handles the rest.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a0533?style=flat-square&logo=springboot&logoColor=c77dff)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0533?style=flat-square&logo=typescript&logoColor=c77dff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=c77dff)
+![Flyway](https://img.shields.io/badge/Flyway-1a0533?style=flat-square&logo=flyway&logoColor=c77dff)
+![Valkey](https://img.shields.io/badge/Valkey-1a0533?style=flat-square&logo=redis&logoColor=c77dff)
+![GitHub Apps](https://img.shields.io/badge/GitHub_Apps-1a0533?style=flat-square&logo=github&logoColor=c77dff)
+![Bun](https://img.shields.io/badge/Bun-1a0533?style=flat-square&logo=bun&logoColor=c77dff)
+&nbsp; [[source]](https://github.com/Naveensivam03/PRFlow)
+
+<details>
+<summary><sub>what's under the hood</sub></summary>
+<br/>
+
+```
+contributor expertise graph   →  recency-decayed scoring across repo / dir / file ownership
+reviewer routing engine       →  4 factors: expertise · workload · seniority · PR complexity  
+sla escalation system         →  24h → 36h → 48h with automated reminders + reassignment
+event processing              →  idempotent state transitions · replay-safe · HMAC verified
+persistence                   →  8+ relational entities · spring boot · postgresql · flyway
+```
+
+</details>
+
+<br/>
+
+**[Taskin](https://github.com/Naveensivam03/Taskin)** — AI Task Scheduler &nbsp;&nbsp;`shipped`
 
 > You tell it what needs doing. It reads your Google Calendar, asks Gemini to think through priorities and gaps, then slots everything in automatically. No drag-and-drop. You just show up.
 
@@ -90,6 +119,18 @@
 
 <br/>
 
+**[Zovlyn](https://zvolyn.vercel.app)** — Full-Stack Boilerplate Generator &nbsp;&nbsp;`live`
+
+> Starting a new full-stack project shouldn't take half a day. Zovlyn generates a production-ready Next.js + Spring Boot ZIP in one click — CORS pre-wired, Docker Compose included, AGENTS.md at every level so AI coding agents understand your project immediately.
+
+![Next.js](https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=next.js&logoColor=c77dff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a0533?style=flat-square&logo=springboot&logoColor=c77dff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=c77dff)
+![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=c77dff)
+&nbsp; [[live]](https://zvolyn.vercel.app)
+
+<br/>
+
 **[OD Processing System](https://github.com/Naveensivam03/od-final-)** — Teacher Module &nbsp;&nbsp;`shipped`
 
 > Role-based approval flow for college. Owned the teacher module end-to-end — JWT auth, protected routes, real-time status tracking, automated emails via Nodemailer. 4-person team, shipped on time.
@@ -112,10 +153,12 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-1a0533?style=flat-square&logo=graphql&logoColor=c77dff)
 ![REST](https://img.shields.io/badge/REST-1a0533?style=flat-square&logo=fastapi&logoColor=c77dff)
 ![JWT](https://img.shields.io/badge/JWT-1a0533?style=flat-square&logo=jsonwebtokens&logoColor=c77dff)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-1a0533?style=flat-square&logo=apachekafka&logoColor=c77dff)
 
 **frontend** &nbsp;·&nbsp;
 ![React](https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=c77dff)
 ![Next.js](https://img.shields.io/badge/Next.js-1a0533?style=flat-square&logo=next.js&logoColor=c77dff)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a0533?style=flat-square&logo=tailwindcss&logoColor=c77dff)
 
 **languages** &nbsp;·&nbsp;
 ![Java](https://img.shields.io/badge/Java-1a0533?style=flat-square&logo=openjdk&logoColor=c77dff)
@@ -129,9 +172,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a0533?style=flat-square&logo=mongodb&logoColor=c77dff)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1a0533?style=flat-square&logo=databricks&logoColor=c77dff)
 ![Valkey](https://img.shields.io/badge/Valkey-1a0533?style=flat-square&logo=redis&logoColor=c77dff)
+![Flyway](https://img.shields.io/badge/Flyway-1a0533?style=flat-square&logo=flyway&logoColor=c77dff)
 
 **tools** &nbsp;·&nbsp;
 ![Git](https://img.shields.io/badge/Git-1a0533?style=flat-square&logo=git&logoColor=c77dff)
+![Docker](https://img.shields.io/badge/Docker-1a0533?style=flat-square&logo=docker&logoColor=c77dff)
 ![Postman](https://img.shields.io/badge/Postman-1a0533?style=flat-square&logo=postman&logoColor=c77dff)
 ![Vercel](https://img.shields.io/badge/Vercel-1a0533?style=flat-square&logo=vercel&logoColor=c77dff)
 ![Render](https://img.shields.io/badge/Render-1a0533?style=flat-square&logo=render&logoColor=c77dff)
@@ -170,11 +215,11 @@
 &nbsp;
 [![linkedin](https://img.shields.io/badge/linkedin-1a0533?style=for-the-badge&logo=linkedin&logoColor=c77dff)](https://linkedin.com/in/naveensivam-s13)
 &nbsp;
-[![portfolio](https://img.shields.io/badge/portfolio-1a0533?style=for-the-badge&logo=vercel&logoColor=c77dff)](https://portfolio-cyan-xi-90.vercel.app/)
+[![portfolio](https://img.shields.io/badge/portfolio-1a0533?style=for-the-badge&logo=vercel&logoColor=c77dff)](https://devport-sand.vercel.app/)
 
 <br/><br/>
 
-<sub>not everything i start ships — but the things i'm proud of do.<br/>pre-final year · cgpa 8.08 · building in public at <b>@Naveensivam03</b></sub>
+<sub>not everything i start ships — but the things i'm proud of do.<br/>pre-final year · cgpa 8.08 · building event-driven systems at <b>@Naveensivam03</b></sub>
 
 </div>
 
